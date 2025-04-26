@@ -20,4 +20,20 @@
 
 ### 🔝 Top Contributed Repos
 
-![GitHub Contrib Stats](https://github-contributor-stats.vercel.app/api?username=SnehAl2o7&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://github.com/SnehAl2o7/AI-and-ML-python-learning">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=SnehAl2o7&repo=AI-and-ML-python-learning&theme=dark"
+      alt="AI-and-ML-python-learning"
+      width="220"
+    />
+  </a>
+  <a href="https://github.com/SnehAl2o7/Daily-DSA">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=SnehAl2o7&repo=Daily-DSA&theme=dark"
+      alt="Daily-DSA"
+      width="220"
+    />
+  </a>
+</p>
+
