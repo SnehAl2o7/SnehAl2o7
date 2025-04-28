@@ -35,5 +35,12 @@
       width="220"
     />
   </a>
+  <a href="https://github.com/SnehAl2o7/HTML-CSS">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=SnehAl2o7&repo=HTML-CSS&theme=dark"
+      alt="HTML-CSS"
+      width="220"
+    />
+  </a>
 </p>
 
