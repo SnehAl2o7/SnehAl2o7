@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my own AI and ML model.<br>🤝 I’m looking for help with ML approaches.<br>🌱 I’m currently learning python Libraries and ML frameworks.<br>⚡ I'm currently pursuing B.Tech in Computer Science & Engineering
+🔭 I’m currently working on my own MLOPs.<br>🤝 I’m looking for help with ML approaches and integrations.<br>🌱 I’m currently learning python Libraries and ML frameworks.<br>⚡ I'm currently pursuing B.Tech in Computer Science & Engineering
 
 
 ## 🌐 Socials:
