@@ -32,7 +32,7 @@
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=SnehAl2o7&repo=Daily-DSA&theme=dark"
       alt="Daily-DSA"
-      width="220"
+      width="200"
     />
   </a>
   <a href="https://github.com/SnehAl2o7/HTML-CSS">
