@@ -25,21 +25,21 @@
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=SnehAl2o7&repo=AI-and-ML-python-learning&theme=dark"
       alt="AI-and-ML-python-learning"
-      width="220"
+      width="250"
     />
   </a>
   <a href="https://github.com/SnehAl2o7/Daily-DSA">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=SnehAl2o7&repo=Daily-DSA&theme=dark"
       alt="Daily-DSA"
-      width="200"
+      width="230"
     />
   </a>
   <a href="https://github.com/SnehAl2o7/HTML-CSS">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=SnehAl2o7&repo=HTML-CSS&theme=dark"
       alt="HTML-CSS"
-      width="220"
+      width="230"
     />
   </a>
 </p>
