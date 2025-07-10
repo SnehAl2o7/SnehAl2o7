@@ -22,13 +22,31 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SnehAl2o7&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repos
 
----
-[![](https://visitcount.itsvg.in/api?id=SnehAl2o7&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://github.com/SnehAl2o7/AI-and-ML-python-learning">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=SnehAl2o7&repo=AI-and-ML-python-learning&theme=dark"
+      alt="AI-and-ML-python-learning"
+      width="250"
+    />
+  </a>
+  <a href="https://github.com/SnehAl2o7/Daily-DSA">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=SnehAl2o7&repo=Daily-DSA&theme=dark"
+      alt="Daily-DSA"
+      width="230"
+    />
+  </a>
+  <a href="https://github.com/SnehAl2o7/HTML-CSS">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=SnehAl2o7&repo=HTML-CSS&theme=dark"
+      alt="HTML-CSS"
+      width="230"
+    />
+  </a>
+</p>
 
 
 
