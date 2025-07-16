@@ -24,31 +24,30 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repos
+## 📌 Top Repositories
 
-<p align="center">
-  <a href="https://github.com/SnehAl2o7/AI-and-ML-python-learning">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=SnehAl2o7&repo=AI-and-ML-python-learning&theme=dark"
-      alt="AI-and-ML-python-learning"
-      width="250"
-    />
-  </a>
-  <a href="https://github.com/SnehAl2o7/Daily-DSA">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=SnehAl2o7&repo=Daily-DSA&theme=dark"
-      alt="Daily-DSA"
-      width="230"
-    />
-  </a>
-  <a href="https://github.com/SnehAl2o7/HTML-CSS">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=SnehAl2o7&repo=HTML-CSS&theme=dark"
-      alt="HTML-CSS"
-      width="230"
-    />
-  </a>
-</p>
+<table>
+  <tr>
+    <th>Repository Name</th>
+    <th>Language</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SnehAl2o7/Daily-DSA" target="_blank">🔗Daily-DSA </a></td>
+    <td><code>C++</code></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SnehAl2o7/AI-and-ML-python-learning" target="_blank">🔗 AI-and-ML-python-learnin</a></td>
+    <td><code>Python</code></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SnehAl2o7/CompleteJavaScript" target="_blank">🔗 CompleteJavaScript</a></td>
+    <td><code>Jupyter Notebook</code></td>
+  </tr>
+</table>
+
+
+
+
 
 
 
