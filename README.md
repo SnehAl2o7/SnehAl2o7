@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_2o1o5_snehal_vansh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehal-singh-bisht-28b62629b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@2oo5Snehal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snehalsingh353@gmail.com) 
 
 <!-- Right Corner GIF -->
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="280" height="300" style="margin-left: 100px;" />
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 
 # 💻 Tech Stack:
