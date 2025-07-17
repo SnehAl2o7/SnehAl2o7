@@ -1,3 +1,6 @@
+### <h2>नमस्ते (Namaste)🙏🏻, I'm Snehal!
+  </br>
+  
 # 💫 About Me:
 🔭 I’m currently working on MLOPs and AI.<br>🤝 I’m looking for help with ML approaches and integrations them with the web adn app application.<br>🌱 I’m currently learning python Libraries for ML and ML frameworks.<br>⚡ I'm currently pursuing B.Tech in Computer Science & Engineering.
 
